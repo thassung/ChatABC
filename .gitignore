@@ -1,0 +1,8 @@
+model_old
+ipynb_old
+vocab_shakespeare.pkl
+lstm_gutenberg_e50.pt
+model_a
+LSTM LM og.ipynb
+vocab.pkl
+model/lstm_gutenberg_best.pt
